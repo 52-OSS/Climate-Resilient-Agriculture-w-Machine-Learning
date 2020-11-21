@@ -1,7 +1,7 @@
 # Climate-Resilient-Agriculture-w-Machine-Learning
 IWD
 
-### GROP HEALTH
+### CROP HEALTH
 Using Docker
 
 docker build -t hands-classifier .
