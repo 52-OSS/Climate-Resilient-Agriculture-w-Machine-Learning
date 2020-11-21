@@ -1,0 +1,210 @@
+crop,variety,location,arrivals(qtls),Max,Min,Model,Purchase by
+Cabbage,Common,Shadnagar,12,"1,600","1,400","1,500",Private Traders
+Carrot,Common,Shadnagar,5,"3,000","2,500","2,800",Private Traders
+Brinjal,Common,Shadnagar,10,"1,100",800,900,Private Traders
+Ladysfinger,Common,Shadnagar,13,"1,800","1,500","1,600",Private Traders
+Greenchillies,Common,Shadnagar,18,"3,500","2,800","3,000",Private Traders
+Tomato,Local,Shadnagar,10,"3,000","2,500","2,800",Private Traders
+Clusterbeans,Common,Shadnagar,5,"2,200","1,800","2,000",Private Traders
+Ribbedgourd,Common,Shadnagar,8,"3,000","2,500","2,800",Private Traders
+Bittergourd,Common,Shadnagar,5,"3,000","2,500","2,800",Private Traders
+Capsicum,Common,Shadnagar,5,"3,500","2,900","3,000",Private Traders
+Paddy,Common (HMT),Suryapet,746,"2,121","1,378","2,112",Private Traders
+Paddy,Grade-A (1010),Jagtial,2,"1,356","1,356","1,356",Private Traders
+Paddy,Grade-A (BPT),Choppadandi,20,"1,452","1,445","1,452",Private Traders
+Paddy,Grade-A (Jai Sri Ram),Jagtial,1,"1,975","1,975","1,975",Private Traders
+Paddy,Grade-A (RNR),Suryapet,428,"2,159","1,404","1,986",Private Traders
+Paddy,Grade-A (Samba Masuri),Suryapet,77,"2,439","1,469","2,309",Private Traders
+Paddy,Grade-A (Samba Masuri),Tirmalagiri,6,"2,259","1,409","2,259",Private Traders
+Paddy,Grade-A (Sonamasuri),Nagarkurnool,11,"1,306","1,306","1,306",Private Traders
+Paddy,Grade-A(IR64),Suryapet,313,"1,706","1,269","1,702",Private Traders
+Paddy,Grade-A(IR64),Tirmalagiri,44,"1,559","1,450","1,520",Private Traders
+Paddy,Grade-A(IR64),Choppadandi,17,"1,511","1,370","1,470",Private Traders
+Maize,Common,Choppadandi,36,"1,465","1,451","1,465",Private Traders
+Maize,Common,Khammam,24,"1,331","1,150","1,331",Private Traders
+Maize,Common,Tandur,19,"1,250","1,250","1,250",Private Traders
+Maize,Common,Warangal,17,"1,472","1,452","1,462",Private Traders
+Maize,Common,Nagarkurnool,8,"1,161","1,161","1,161",Private Traders
+Bengalgram,Common,Tandur,6,"4,050","4,050","4,050",Private Traders
+Redgram,Common,Suryapet,105,"5,571","3,489","5,561",Private Traders
+Redgram,Common,Tirmalagiri,37,"5,253","4,700","4,932",Private Traders
+Redgram,Common,Tandur,33,"5,805","5,508","5,701",Private Traders
+Redgram,Common,Khammam,30,"5,430","5,000","5,230",Private Traders
+Redgram,Common,Warangal,17,"5,312","4,922","5,255",Private Traders
+Redgram,Hybrid,Choppadandi,5,"4,951","4,822","4,922",Private Traders
+Greengram,Common,Khammam,36,"7,200","6,600","6,800",Private Traders
+Greengram,Common,Suryapet,3,"6,876","6,876","6,876",Private Traders
+Greengram,Common,Warangal,3,"6,755","6,755","6,755",Private Traders
+Greengram,Common,Choppadandi,1,"5,252","5,252","5,252",Private Traders
+Black Gram,Common,Suryapet,6,"5,759","5,759","5,759",Private Traders
+Cowpea,Common,Suryapet,1,"4,069","4,069","4,069",Private Traders
+Cotton,Common,Warangal,"4,000","4,550","3,500","4,490",Private Traders
+Cotton,Common,Khammam,516,"4,625","3,000","4,100",Private Traders
+Groundnut ,Common,Warangal,53,"3,450","2,200","2,700",Private Traders
+Groundnut ,Common,Nagarkurnool,11,"5,320","5,300","5,320",Private Traders
+Castor,Common,Nagarkurnool,8,"3,856","3,856","3,856",Private Traders
+Onions,Common,Gudumalkapur,"1,292","1,000",600,800,Private Traders
+Tumeric,Bulb,Jagtial,5,"4,301","3,800","4,201",Private Traders
+Tumeric,Finger,Jagtial,11,"4,500","3,921","4,425",Private Traders
+Mango,Benishan,Gaddiannaram,"1,800",900,"1,800","4,500",Private Traders
+Mosambi,Common,Gaddiannaram,"3,385","2,900",600,"1,300",Private Traders
+Orange,Common,Gaddiannaram,132,"4,400","1,900","2,750",Private Traders
+Grapes,Black,Gaddiannaram,20,"3,250","1,400","2,250",Private Traders
+Pomegrenates,Common,Gaddiannaram,88,"6,500",750,"2,000",Private Traders
+Sapota,Common,Gaddiannaram,264,"1,000",400,600,Private Traders
+Muskmelon,Common,Gaddiannaram,80,"1,200",500,700,Private Traders
+Watermelon,Common,Gaddiannaram,400,700,400,500,Private Traders
+Pineapple,Common,Gaddiannaram,240,"2,800",400,800,Private Traders
+Jackfruit,Common,Gaddiannaram,80,300,150,200,Private Traders
+Papaya,Common,Gaddiannaram,240,800,400,500,Private Traders
+Guava,Common,Gaddiannaram,90,"2,650",650,"1,250",Private Traders
+Apple,Common,Gaddiannaram,404,"12,500","4,350","6,250",Private Traders
+Cabbage,Common,Gudumalkapur,188,800,600,700,Private Traders
+Cabbage,Common,Shadnagar,10,"1,500","1,200","1,300",Private Traders
+Cauliflower,Common,Gudumalkapur,59,"2,000","1,000","1,500",Private Traders
+Beet Root,Common,Gudumalkapur,38,"1,000",600,800,Private Traders
+Radish,Common,Gudumalkapur,2,600,400,500,Private Traders
+Carrot,Common,Gudumalkapur,217,"3,000","1,500","2,000",Private Traders
+Carrot,Common,Shadnagar,5,"3,000","2,500","2,800",Private Traders
+Potato,Common,Gudumalkapur,"1,726","2,000","1,600","1,800",Private Traders
+ColaCasio(Arvi),Common,Gudumalkapur,126,"2,000","1,600","1,800",Private Traders
+Green Onion,Common,Gudumalkapur,2,"1,500","1,000","1,200",Private Traders
+Brinjal,Common,Shadnagar,12,"1,200","1,000","1,100",Private Traders
+Brinjal,Round,Gudumalkapur,304,800,400,600,Private Traders
+Ladysfinger,Common,Gudumalkapur,276,"1,200",600,"1,000",Private Traders
+Ladysfinger,Common,Shadnagar,13,"1,800","1,500","1,700",Private Traders
+Greenchillies,Common,Gudumalkapur,403,"2,200","1,000","1,600",Private Traders
+Greenchillies,Common,Shadnagar,16,"3,200","2,900","3,000",Private Traders
+Tomato,Common,Gudumalkapur,362,"2,400","1,000","1,600",Private Traders
+Tomato,Local,Shadnagar,15,"2,250","1,800","2,000",Private Traders
+French Beans,Common,Gudumalkapur,70,"6,000","4,000","5,000",Private Traders
+Clusterbeans,Common,Gudumalkapur,173,"1,500",900,"1,200",Private Traders
+Clusterbeans,Common,Shadnagar,10,"2,000","1,500","1,800",Private Traders
+Field Beans,Common,Gudumalkapur,46,"5,000","3,000","4,000",Private Traders
+Bottle Gourd,Common,Gudumalkapur,227,800,400,600,Private Traders
+Ribbedgourd,Common,Gudumalkapur,93,"2,500","2,000","2,200",Private Traders
+Ribbedgourd,Common,Shadnagar,8,"2,000","1,600","1,800",Private Traders
+Bittergourd,Common,Gudumalkapur,91,"2,000","1,000","1,500",Private Traders
+Bittergourd,Common,Shadnagar,5,"3,000","2,500","2,800",Private Traders
+Kheera,Common,Gudumalkapur,151,800,400,600,Private Traders
+Pumpkin,Common,Gudumalkapur,27,800,600,700,Private Traders
+Cucumber,Common,Gudumalkapur,50,600,400,500,Private Traders
+Drumstick,Common,Gudumalkapur,59,"2,000","1,500","1,800",Private Traders
+Lemon,Common,Nakrekal,190,200,50,100,Private Traders
+Donda,Common,Gudumalkapur,192,"1,000",600,800,Private Traders
+Lobha,Common,Gudumalkapur,3,"1,500","1,000","1,200",Private Traders
+Arati-Green Plantain,Common,Gudumalkapur,3,"2,500","2,000","2,200",Private Traders
+Capsicum,Common,Gudumalkapur,37,"2,500","2,000","2,200",Private Traders
+Capsicum,Common,Shadnagar,5,"3,500","2,800","3,000",Private Traders
+Nashpati(Pear),Common,Gaddiannaram,10,"10,000","5,000","6,650",Private Traders
+Plum(Aloobukara),Common,Gaddiannaram,13,"4,550","1,400","2,100",Private Traders
+Paddy,Common,Tandur,23,"1,575","1,550","1,560",Private Traders
+Paddy,Grade-A (1010),Jagtial,3,"1,466","1,411","1,466",Private Traders
+Paddy,Grade-A (BPT),Choppadandi,13,"1,448","1,436","1,448",Private Traders
+Paddy,Grade-A (RNR),Choppadandi,5,"1,552","1,406","1,552",Private Traders
+Paddy,Grade-A (Samba Masuri),Tirmalagiri,25,"2,339","1,889","1,889",Private Traders
+Paddy,Grade-A(IR64),Choppadandi,139,"1,530","1,375","1,521",Private Traders
+Paddy,Grade-A(IR64),Tirmalagiri,113,"1,612","1,579","1,591",Private Traders
+Wheat,Common,Nizamabad,8,"1,702","1,402","1,502",Private Traders
+Maize,Common,Warangal,24,"1,471","1,436","1,459",Private Traders
+Maize,Common,Tandur,20,"1,350","1,350","1,350",Private Traders
+Maize,Common,Choppadandi,16,"1,382","1,382","1,382",Private Traders
+Maize,Common,Tirmalagiri,6,"1,292","1,292","1,292",Private Traders
+Maize,Common,Sadasivapet,4,"1,341","1,341","1,341",Private Traders
+Maize,Common,Jagtial,3,"1,355","1,011","1,355",Private Traders
+Maize,Hybrid New,Nizamabad,1,"1,502","1,502","1,502",Private Traders
+Bengalgram,Common,Nizamabad,3,"3,102","3,102","3,102",Private Traders
+Bengalgram,Common,Tandur,2,390,"3,950","3,950",Private Traders
+Redgram,Common,Tandur,163,"5,779","5,319","5,751",Private Traders
+Redgram,Common,Khammam,62,"5,430","1,600","5,375",Private Traders
+Redgram,Common,Warangal,37,"5,239","4,411","5,206",Private Traders
+Redgram,Common,Nizamabad,6,"4,320","4,233","4,252",Private Traders
+Redgram,Common,Jagtial,4,"4,252","3,838","4,252",Private Traders
+Redgram,Hybrid,Choppadandi,3,"4,888","4,888","4,888",Private Traders
+Greengram,Common,Khammam,26,"7,300","5,411","7,250",Private Traders
+Greengram,Common,Warangal,1,"6,322","6,322","6,322",Private Traders
+Black Gram,Common,Tandur,4,"4,005","4,005","4,005",Private Traders
+Cotton,Common,Warangal,"3,659","4,545","3,500","4,480",Private Traders
+Cotton,Common,Khammam,"1,072","4,300","3,000","4,000",Private Traders
+Cotton,Common,Jammikunta,59,"3,200","4,500","4,500",Private Traders
+Cotton,Common,Choppadandi,11,"3,400","3,000","3,300",Private Traders
+Groundnut ,Common,Warangal,147,"5,320","2,000","2,800",Private Traders
+Groundnut ,Common,Tirmalagiri,9,"5,250","5,250","5,250",Private Traders
+Castor,Common,Nagarkurnool,60,"3,852","3,843","3,852",Private Traders
+Gingelly,White,Nizamabad,89,"8,570","7,905","8,355",Private Traders
+Gingelly,White,Warangal,6,"7,739","7,539","7,629",Private Traders
+Chillies(Dry),Talu,Khammam,256,"6,000","5,000","5,500",Private Traders
+Chillies(Dry),Talu,Warangal,35,"5,000","3,000","4,000",Private Traders
+Chillies(Dry),Teja,Khammam,384,"13,000","7,500","9,000",Private Traders
+Chillies(Dry),Teja,Warangal,194,"12,500","8,500","10,500",Private Traders
+Onions,Common,Gudumalkapur,"1,517","1,000",600,800,Private Traders
+Onions,Common,Sadasivapet,90,"1,172",436,982,Private Traders
+Tumeric,Bulb,Nizamabad,"1,403","5,487","4,500","5,169",Private Traders
+Tumeric,Bulb,Warangal,558,"4,200","3,600","4,000",Private Traders
+Tumeric,Bulb,Kesamudram,546,"4,916","3,011","4,721",Private Traders
+Tumeric,Bulb,Sadasivapet,30,"5,251","4,488","5,201",Private Traders
+Tumeric,Bulb,Jagtial,4,"4,301","4,001","4,301",Private Traders
+Tumeric,Finger,Nizamabad,"2,552","6,415","4,500","5,355",Private Traders
+Tumeric,Finger,Kesamudram,"1,977","5,211","3,009","4,859",Private Traders
+Tumeric,Finger,Warangal,"1,803","4,600","4,000","4,400",Private Traders
+Tumeric,Finger,Sadasivapet,98,"5,201","3,800","5,201",Private Traders
+Tumeric,Finger,Jagtial,10,"4,750","4,200","4,750",Private Traders
+Mango,Benishan,Gaddiannaram,"1,672","3,400",700,"1,500",Private Traders
+Mosambi,Common,Gaddiannaram,"3,666","2,900",600,"1,300",Private Traders
+Orange,Common,Gaddiannaram,45,"4,100","1,900","2,700",Private Traders
+Grapes,Black,Gaddiannaram,200,"3,500","1,400","2,200",Private Traders
+Pomegrenates,Common,Gaddiannaram,"1,189","6,200",750,"1,850",Private Traders
+Sapota,Common,Gaddiannaram,92,"1,000",420,600,Private Traders
+Watermelon,Common,Gaddiannaram,360,700,400,500,Private Traders
+Pineapple,Common,Gaddiannaram,240,"2,800",400,800,Private Traders
+Papaya,Common,Gaddiannaram,280,700,400,500,Private Traders
+Guava,Common,Gaddiannaram,93,"2,300",660,"1,260",Private Traders
+Apple,Common,Gaddiannaram,780,"11,800","4,300","6,200",Private Traders
+Cabbage,Common,Gudumalkapur,95,800,600,700,Private Traders
+Cabbage,Common,Shadnagar,15,"1,600","1,400","1,500",Private Traders
+Cauliflower,Common,Gudumalkapur,146,"2,600","2,000","1,200",Private Traders
+Beet Root,Common,Gudumalkapur,9,"1,000",800,900,Private Traders
+Radish,Common,Gudumalkapur,4,500,300,400,Private Traders
+Carrot,Common,Gudumalkapur,22,"3,000","1,500","2,200",Private Traders
+Carrot,Common,Shadnagar,10,"3,000","2,200","2,500",Private Traders
+Potato,Common,Gudumalkapur,"1,201","2,000","1,600","1,800",Private Traders
+ColaCasio(Arvi),Common,Gudumalkapur,34,"2,000","1,800","1,900",Private Traders
+Yam,Common,Gudumalkapur,3,"1,000",800,900,Private Traders
+Green Onion,Common,Gudumalkapur,3,"2,500","2,000","2,300",Private Traders
+Brinjal,Common,Shadnagar,15,"1,200",800,"1,000",Private Traders
+Brinjal,Round,Gudumalkapur,217,800,400,600,Private Traders
+Ladysfinger,Common,Gudumalkapur,318,"1,200",600,900,Private Traders
+Ladysfinger,Common,Shadnagar,18,"1,200","1,000","1,100",Private Traders
+Greenchillies,Common,Gudumalkapur,306,"2,800","1,500","2,000",Private Traders
+Greenchillies,Common,Shadnagar,16,"3,500","2,800","3,000",Private Traders
+Tomato,Common,Gudumalkapur,"1,248","2,200",900,"1,500",Private Traders
+Tomato,Local,Shadnagar,12,"2,500","2,000","2,200",Private Traders
+French Beans,Common,Gudumalkapur,55,"6,000","4,000","5,000",Private Traders
+Clusterbeans,Common,Gudumalkapur,146,"1,500","1,000","1,200",Private Traders
+Clusterbeans,Common,Shadnagar,13,"2,000","1,600","1,800",Private Traders
+Field Beans,Common,Gudumalkapur,26,"5,000","3,000","4,000",Private Traders
+Bottle Gourd,Common,Gudumalkapur,193,800,600,700,Private Traders
+Ribbedgourd,Common,Gudumalkapur,48,"2,500","2,000","2,300",Private Traders
+Ribbedgourd,Common,Shadnagar,12,"2,500","2,000","2,200",Private Traders
+Bittergourd,Common,Gudumalkapur,81,"2,200","1,800","2,000",Private Traders
+Bittergourd,Common,Shadnagar,10,"3,000","2,800","2,900",Private Traders
+Kheera,Common,Gudumalkapur,96,"1,000",800,900,Private Traders
+Pumpkin,Common,Gudumalkapur,20,800,400,600,Private Traders
+Cucumber,Common,Gudumalkapur,33,600,400,500,Private Traders
+Drumstick,Common,Gudumalkapur,29,"2,000","1,600","1,800",Private Traders
+Lemon,Common,Nakrekal,226,200,50,100,Private Traders
+Donda,Common,Gudumalkapur,128,"1,000",600,800,Private Traders
+Lobha,Common,Gudumalkapur,1,"1,000","1,000","1,000",Private Traders
+Arati-Green Plantain,Common,Gudumalkapur,14,"2,000","1,000","1,500",Private Traders
+Capsicum,Common,Gudumalkapur,11,"2,500","2,000","2,300",Private Traders
+Capsicum,Common,Shadnagar,8,"5,000","3,500","4,000",Private Traders
+Nashpati(Pear),Common,Gaddiannaram,21,"13,300","5,000","8,300",Private Traders
+Plum(Aloobukara),Common,Gaddiannaram,106,"4,400","1,400","2,100",Private Traders
+Bazra,common,Nizamabad,7,"1,422","1,305","1,385",Private Traders
+Rice,Common,Tandur,23,"1,575","1,550","1,560",Private Traders
+Rice,Grade-A (1010),Jagtial,3,"1,466","1,411","1,466",Private Traders
+Rice,Grade-A (BPT),Choppadandi,13,"1,448","1,436","1,448",Private Traders
+Rice,Grade-A (RNR),Choppadandi,5,"1,552","1,406","1,552",Private Traders
+Rice,Grade-A (Samba Masuri),Tirmalagiri,25,"2,339","1,889","1,889",Private Traders
+Rice,Grade-A(IR64),Choppadandi,139,"1,530","1,375","1,521",Private Traders
+Rice,Grade-A(IR64),Tirmalagiri,113,"1,612","1,579","1,591",Private Traders
