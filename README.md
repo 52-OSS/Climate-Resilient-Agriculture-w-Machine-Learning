@@ -20,7 +20,7 @@ python3 train.py \
   --summaries_dir=logs/training_summaries/basic \
   --output_graph=logs/trained_graph.pb \
   --output_labels=logs/trained_labels.txt \
-  --image_dir=./dataset
+  --image_dir=./datasets crophealth 
 If you're using the provided dataset, it may take up to three hours.
 
 Classifying
@@ -30,4 +30,21 @@ python3 classify.py path/to/image.jpg
 Using webcam (demo)
 To use webcam, use the following command:
 
+### seedsFeatureExtraction.ipynb
+We will use the data to help classify breast tumors as benign or malign
 
+We have 569 observations with 33 variables
+
+Ten real-valued features are computed for each cell nucleus:
+
+-radius (mean of distances from center to points on the perimeter)
+-texture (standard deviation of gray-scale values)
+-perimeter
+-area
+-smoothness (local variation in radius lengths)
+-compactness (perimeter^2 / area - 1.0)
+-concavity (severity of concave portions of the contour)
+-concave points (number of concave portions of the contour)
+-symmetry
+-fractal dimension (“coastline approximation” - 1)
+-SVM technique has been used to model the data
