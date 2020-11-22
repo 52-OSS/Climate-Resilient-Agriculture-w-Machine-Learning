@@ -31,20 +31,32 @@ Using webcam (demo)
 To use webcam, use the following command:
 
 ### seedsFeatureExtraction.ipynb
-We will use the data to help classify breast tumors as benign or malign
+We will use the data to help classify the yield
 
 We have 569 observations with 33 variables
 
 Ten real-valued features are computed for each cell nucleus:
 
 -radius (mean of distances from center to points on the perimeter)
+
 -texture (standard deviation of gray-scale values)
+
 -perimeter
+
 -area
+
 -smoothness (local variation in radius lengths)
+
 -compactness (perimeter^2 / area - 1.0)
+
 -concavity (severity of concave portions of the contour)
+
 -concave points (number of concave portions of the contour)
+
 -symmetry
+
 -fractal dimension (“coastline approximation” - 1)
+
 -SVM technique has been used to model the data
+
+A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems
